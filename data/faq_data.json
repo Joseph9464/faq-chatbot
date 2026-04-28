@@ -1,0 +1,29 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What is Calder and how does it help my business?",
+      "answer": "Calder helps modern businesses work smarter and move faster by removing complexity from everyday work. We provide tools to automate and simplify your workflows."
+    },
+    {
+      "id": 2,
+      "question": "How do I reset my account password?",
+      "answer": "To reset your password, navigate to the login page and click on 'Forgot Password'. You will receive an email with instructions to create a new password."
+    },
+    {
+      "id": 3,
+      "question": "Can I integrate Calder with other tools?",
+      "answer": "Yes, Calder supports integrations with various enterprise tools through our API. Please check our developer documentation for a full list of supported integrations."
+    },
+    {
+      "id": 4,
+      "question": "What are your customer support hours?",
+      "answer": "Our technical support team is available Monday through Friday, from 9:00 AM to 6:00 PM (EST)."
+    },
+    {
+      "id": 5,
+      "question": "How do I upgrade my subscription plan?",
+      "answer": "You can upgrade your plan at any time by going to 'Account Settings' > 'Billing' and selecting the new tier you wish to subscribe to."
+    }
+  ]
+}
